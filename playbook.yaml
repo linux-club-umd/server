@@ -1,0 +1,6 @@
+- name: Set up server
+  hosts: server
+  vars_files:
+    - vars/users.yaml
+  roles:
+    - role: main

@@ -1,0 +1,6 @@
+#!/bin/sh
+set -eu
+
+PROJ_ROOT="$(dirname -- "$0")/.."
+
+ansible-playbook --inventory "$PROJ_ROOT/hosts" "$PROJ_ROOT/playbook.yaml" -u root

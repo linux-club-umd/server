@@ -1,0 +1,7 @@
+users:
+  - user: figsoda
+    key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK5D3hXxQlotj68tquQxq9Q+v4xuk5vjj8dBeZYLFsNc"
+  - user: odespo
+    key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxNzFVFcxuQzvvhVrQqO8DQH36UolRu4xI/W3P4B4f8"
+  - user: jaub
+    key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDlxZtg52k29Ubiuh8hHmlzELy+D5ObZaF7rKvjSZe5R"
