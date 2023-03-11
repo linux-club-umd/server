@@ -5,3 +5,5 @@ users:
     key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxNzFVFcxuQzvvhVrQqO8DQH36UolRu4xI/W3P4B4f8"
   - user: jaub
     key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDlxZtg52k29Ubiuh8hHmlzELy+D5ObZaF7rKvjSZe5R"
+  - user: nnesseth
+    key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHeomgKITigpfHd34Eh/06kqTTctC1CdE0z1KW+3XSDe"
